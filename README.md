@@ -23,7 +23,7 @@ At the stage of statistical analysis, the methods of automation of statistical i
 <ul>
   <li>calculation of basic statistical indicators</li>
   <li>data sorting and grouping</li>
-  <li>data transformation DataSet</li>
+  <li>data transformation Data Set</li>
   <li>calculation of statistical indicators on the transformed data</li>
 At the stage of visualization, the possibilities of visualization of the received statistical indicators will be shown.
 
