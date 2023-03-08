@@ -10,7 +10,7 @@ In this project, I have used the methods of statistical analysis of data obtaine
 The first stage will show how to download spreadsheet data:
 <ul>
   <li>indexing of key fields</li>
-  <li>working with data types such as datatime</li>
+  <li>working with datatypes such as datatime</li>
   <li>writing a parser function to automatically create index fields</li>
   </ul>
 At the next stage, it will be demonstrated how to pre-prepare data for analysis, in particular:
