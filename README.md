@@ -27,4 +27,4 @@ At the stage of statistical analysis, the methods of automation of statistical i
   <li>calculation of statistical indicators on the transformed data</li>
 At the stage of visualization, the possibilities of visualization of the received statistical indicators will be shown.
 
-The statistical data obtained during a survey by scientists of the Department of Artificial Intelligence Systems of the National University of Lviv Polytechnic has been used in this project. 
+The statistical data obtained during the survey by scientists of the Department of Artificial Intelligence Systems of the National University of Lviv Polytechnic has been used in this project. 
