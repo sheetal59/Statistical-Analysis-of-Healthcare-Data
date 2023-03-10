@@ -2,7 +2,7 @@
 This project is dedicated to downloading, pre-preparing and making statistical analysis of ELISA tests and collected information about IgG and IgM, influenza vaccination, tuberculosis vaccination and previous diseases, blood group respondents have.
 In this project, I have used the methods of statistical analysis of data obtained via a people survey on the disease of COVID-19. The project consists of three stages:
 <ul>
-  <li>Data download from Kaggle</li>
+  <li>Data download from kaggle</li>
   <li>Data preparation and EDA</li>
   <li>Statistical analysis</li>
   <li>Data visualization</li>
