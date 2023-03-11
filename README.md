@@ -5,7 +5,7 @@ In this project, I have used the methods of statistical analysis of data obtaine
   <li>Data download from kaggle</li>
   <li>Data preparation and EDA</li>
   <li>Statistical analysis</li>
-  <li>Data visualization</li>
+  <li>Data visualization using Matplotlib</li>
   </ul>
 The first stage will show how to download spreadsheet data:
 <ul>
