@@ -7,7 +7,7 @@ In this project, I have used the methods of statistical analysis of data obtaine
   <li>Statistical analysis</li>
   <li>Data visualization using Matplotlib</li>
   </ul>
-The first stage will show how to download spreadsheet data:
+The first stage will show how to download the spreadsheet data:
 <ul>
   <li>indexing of key fields</li>
   <li>working with datatypes such as datatime</li>
